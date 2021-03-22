@@ -42,11 +42,21 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 ---
 
+
+
+
+
 <br/>
 <br/>
+
+####  Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [linkedin]: https://www.linkedin.com/in/diego-garcia-brisa/
 [twitter]: https://twitter.com/diego_fsd
