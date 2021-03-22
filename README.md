@@ -47,16 +47,14 @@
 
 ---
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegogb-08)](https://github.com/diegogb-08/github-readme-stats)
 
 
 
 <br/>
 <br/>
 
-####  Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 [linkedin]: https://www.linkedin.com/in/diego-garcia-brisa/
 [twitter]: https://twitter.com/diego_fsd
