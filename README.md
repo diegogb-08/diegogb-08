@@ -3,7 +3,7 @@
 
 ## I'm a Developer and a Learner!!
 
-- 🔭 I'm currently working as Frontend Software Engineering at MaibornWolff GmbH
+- 🔭 I'm currently working as Front End Software Engineer at MaibornWolff GmbH
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute with some Open Source projects
 - ⚡ Fun fact: I love climbing outdoors and acro yoga
